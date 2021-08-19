@@ -60,7 +60,7 @@ textarea{
 </div>
 <form>
     <textarea cols="150" rows="50" placeholder="Write your thoughts..." name="textarea"></textarea>
-    <input type="submit" value="save" name="submit">
+    
 </form>
 
 
